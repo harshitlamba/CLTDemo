@@ -1,2 +1,3 @@
 # CLTDemo
 This repository contains code for demonstration of one of the most important concepts in statistics - the Central Limit Theorem. The backend for this application is developed in R, and front-end in R Shiny. The application demonstrates that given a large sample size and enough number of samples, a sampling distribution created from any random distribution mimics normal distribution. You can play with distibution type, number of samples and size of each sample to see how the statistical summary of sampling distribution changes vis-a-vis original distribution.
+Don't forget to give due credits to INSOFE and Harshit if you use this code!
